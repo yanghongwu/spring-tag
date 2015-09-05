@@ -1,10 +1,10 @@
 <beans xmlns="http://www.springframework.org/schema/beans"  
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   
-    xmlns:cutesource="http://www.qunar.com/schema/people"  
+    xmlns:cutesource="http://www.q.com/schema/people"  
     xsi:schemaLocation="  
 http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd  
-http://www.qunar.com/schema/people http://www.qunar.com/schema/people.xsd">  
+http://www.q.com/schema/people http://www.q.com/schema/people.xsd">  
 
-    <cutesource:people id="cutesource" name="袁志俊" age="27"/>  
+    <cutesource:people id="cutesource" name="test" age="27"/>  
 
 </beans>

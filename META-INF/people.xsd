@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <xsd:schema
-        xmlns="http://www.qunar.com/schema/people"
+        xmlns="http://www.q.com/schema/people"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema"
         xmlns:beans="http://www.springframework.org/schema/beans"
-        targetNamespace="http://www.qunar.com/schema/people"
+        targetNamespace="http://www.q.com/schema/people"
         elementFormDefault="qualified"
         attributeFormDefault="unqualified">
     <xsd:import namespace="http://www.springframework.org/schema/beans" />
